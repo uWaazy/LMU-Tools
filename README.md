@@ -53,3 +53,7 @@ Contributions will be welcome once the source code is public! Feel free to open 
 ## Developed by
 
 - **uWaazy**
+
+<a href="https://ko-fi.com/uwaazy" target="_blank">
+  <img src="https://img.shields.io/badge/Support%20my%20Work-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi Donate">
+</a>

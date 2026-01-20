@@ -51,3 +51,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* para
 ## Desenvolvido por
 
 - **uWaazy**
+
+<a href="https://ko-fi.com/uwaazy" target="_blank">
+  <img src="https://img.shields.io/badge/Support%20my%20Work-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi Donate">
+</a>
